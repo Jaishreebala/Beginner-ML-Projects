@@ -8,7 +8,13 @@ Clone this project by navigating to your desired folder in the terminal and run 
 
 ## 1. Student Grades Predictor
 
-A python script that predicts the final grades of students using pandas, sklearn, numpy and also plotted a graph using matplotlib.
+A python script that predicts the final grades of students using linear regression & plotted graph of the data.
+
+**Modules Used:** pandas, sklearn, numpy & matplotlib.
+
 
 ## 2. Car Safety Categorizer
 
+A python script that classifies cars using the KNN Algoritm.
+
+**Modules Used:** pandas, sklearn, numpy
