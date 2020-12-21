@@ -18,3 +18,10 @@ A python script that predicts the final grades of students using linear regressi
 A python script that classifies cars using the KNN Algoritm.
 
 **Modules Used:** pandas, sklearn, numpy
+
+
+## 3. Breast Cancer Classifier
+
+A python script that classifies breast cancer as benign / malignant using the SVM.
+
+**Modules Used:** pandas, sklearn, numpy
